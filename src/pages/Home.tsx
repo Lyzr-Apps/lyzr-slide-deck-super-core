@@ -53,12 +53,6 @@ export default function Home() {
       content: (
         <div className="flex flex-col items-center justify-center h-full gap-12 animate-fadeIn">
           <div className="text-center space-y-6">
-            <img
-              src="https://asset.lyzr.app/FWVZTTzT"
-              alt="Lyzr Logo"
-              className="h-24 mx-auto mb-8 animate-scaleIn"
-              style={{ animationDelay: '0.2s', mixBlendMode: 'screen', filter: 'brightness(1.2)' }}
-            />
             <h1 className="font-playfair text-7xl font-bold text-white leading-tight animate-fadeInUp">
               Build Enterprise AI Agents
             </h1>
