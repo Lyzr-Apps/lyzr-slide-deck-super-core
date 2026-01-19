@@ -67,8 +67,7 @@ export default function Home() {
       id: 2,
       content: (
         <div className="flex flex-col justify-center h-full gap-12">
-          <div className="flex items-center gap-4 mb-8 animate-fadeInUp">
-            <img src="https://asset.lyzr.app/oP4CObkm" alt="Lyzr" className="h-10" style={{ mixBlendMode: 'screen', filter: 'brightness(1.2)' }} />
+          <div className="mb-8 animate-fadeInUp">
             <h2 className="font-playfair text-6xl font-bold text-white">Pre-built Agent Blueprints</h2>
           </div>
           <div className="grid grid-cols-1 gap-8 max-w-5xl">
@@ -107,8 +106,7 @@ export default function Home() {
       id: 3,
       content: (
         <div className="flex flex-col justify-center h-full gap-12">
-          <div className="flex items-center gap-4 mb-8 animate-fadeInUp">
-            <img src="https://asset.lyzr.app/oP4CObkm" alt="Lyzr" className="h-10" style={{ mixBlendMode: 'screen', filter: 'brightness(1.2)' }} />
+          <div className="mb-8 animate-fadeInUp">
             <h2 className="font-playfair text-6xl font-bold text-white">Production Use Cases</h2>
           </div>
           <div className="grid grid-cols-1 gap-8 max-w-5xl">
@@ -147,8 +145,7 @@ export default function Home() {
       id: 4,
       content: (
         <div className="flex flex-col justify-center h-full gap-12">
-          <div className="flex items-center gap-4 mb-8 animate-fadeInUp">
-            <img src="https://asset.lyzr.app/oP4CObkm" alt="Lyzr" className="h-10" style={{ mixBlendMode: 'screen', filter: 'brightness(1.2)' }} />
+          <div className="mb-8 animate-fadeInUp">
             <h2 className="font-playfair text-6xl font-bold text-white">Autonomous Super Agents</h2>
           </div>
           <div className="grid grid-cols-1 gap-8 max-w-5xl">
@@ -187,8 +184,7 @@ export default function Home() {
       id: 5,
       content: (
         <div className="flex flex-col justify-center h-full gap-12">
-          <div className="flex items-center gap-4 mb-8 animate-fadeInUp">
-            <img src="https://asset.lyzr.app/oP4CObkm" alt="Lyzr" className="h-10" style={{ mixBlendMode: 'screen', filter: 'brightness(1.2)' }} />
+          <div className="mb-8 animate-fadeInUp">
             <h2 className="font-playfair text-6xl font-bold text-white">Enterprise-Grade Platform</h2>
           </div>
           <div className="grid grid-cols-1 gap-8 max-w-5xl">
@@ -227,8 +223,7 @@ export default function Home() {
       id: 6,
       content: (
         <div className="flex flex-col justify-center h-full gap-12">
-          <div className="flex items-center gap-4 mb-8 animate-fadeInUp">
-            <img src="https://asset.lyzr.app/oP4CObkm" alt="Lyzr" className="h-10" style={{ mixBlendMode: 'screen', filter: 'brightness(1.2)' }} />
+          <div className="mb-8 animate-fadeInUp">
             <h2 className="font-playfair text-6xl font-bold text-white">Trusted By Industry Leaders</h2>
           </div>
           <div className="grid grid-cols-1 gap-8 max-w-5xl">
@@ -267,8 +262,7 @@ export default function Home() {
       id: 7,
       content: (
         <div className="flex flex-col justify-center h-full gap-12">
-          <div className="flex items-center gap-4 mb-8 animate-fadeInUp">
-            <img src="https://asset.lyzr.app/oP4CObkm" alt="Lyzr" className="h-10" style={{ mixBlendMode: 'screen', filter: 'brightness(1.2)' }} />
+          <div className="mb-8 animate-fadeInUp">
             <h2 className="font-playfair text-6xl font-bold text-white">Why Lyzr</h2>
           </div>
           <div className="grid grid-cols-1 gap-8 max-w-5xl">
