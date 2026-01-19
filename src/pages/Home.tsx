@@ -1,5 +1,5 @@
 import { useState, useEffect, useCallback } from 'react'
-import { FiZap, FiLayers, FiRocket, FiHeadphones, FiTrendingUp, FiFileText, FiCpu, FiTarget, FiTool, FiShield, FiMaximize, FiSettings, FiStar, FiCheck, FiAward, FiArrowRight, FiArrowLeft } from 'react-icons/fi'
+import { FiZap, FiLayers, FiPackage, FiHeadphones, FiTrendingUp, FiFileText, FiCpu, FiTarget, FiTool, FiShield, FiMaximize, FiSettings, FiStar, FiCheck, FiAward, FiArrowRight, FiArrowLeft } from 'react-icons/fi'
 
 export default function Home() {
   const [currentSlide, setCurrentSlide] = useState(0)
@@ -98,7 +98,7 @@ export default function Home() {
             </div>
             <div className="flex items-start gap-6 animate-fadeInUp" style={{ animationDelay: '0.6s' }}>
               <div className="flex-shrink-0 w-16 h-16 rounded-full bg-indigo-500/20 flex items-center justify-center animate-pulse">
-                <FiRocket className="text-indigo-400 text-3xl" />
+                <FiPackage className="text-indigo-400 text-3xl" />
               </div>
               <div>
                 <h3 className="font-noto text-2xl font-semibold text-white mb-2">Fully Customizable</h3>
